@@ -16,8 +16,8 @@
 <link rel="me" href="https://www.blogger.com/profile/02141938436444029404" />
 <!--[if IE]><script type="text/javascript" src="https://www.blogger.com/static/v1/jsbin/2287435483-ieretrofit.js"></script>
 <![endif]-->
-<meta content='https://www.antosh.in/' property='og:url'/>
-<meta content='Welcome to antosh.in' property='og:title'/>
+<meta content='http://www.bhushandeshmukh.me/' property='og:url'/>
+<meta content='Welcome to bhushandeshmukh.me' property='og:title'/>
 <meta content='' property='og:description'/>
 <!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
 <title>
@@ -27,8 +27,8 @@ Welcome to antosh.in
 <meta content='YOUR DESCRIPTION HERE' name='description'/>
 <meta content='YOUR KEYWORDS HERE' name='keywords'/>
 <!-- Description and Keywords (end) -->
-<meta content='Welcome to antosh.in' property='og:site_name'/>
-<meta content='https://www.antosh.in/' name='twitter:domain'/>
+<meta content='Welcome to bhushandeshmukh.me' property='og:site_name'/>
+<meta content='http://www.bhushandeshmukh.me/' name='twitter:domain'/>
 <meta content='' name='twitter:title'/>
 <meta content='summary' name='twitter:card'/>
 <meta content='' name='twitter:title'/>
@@ -4553,7 +4553,7 @@ var pagenav_next = "Next";
 <div class='menu section' id='menu' name='Main Menu'><div class='widget LinkList' data-version='1' id='LinkList210'>
 <div class='widget-content'>
 <ul itemscope='' itemtype='http://schema.org/SiteNavigationElement'>
-<li><a href='https://www.antosh.in/'>Home</a></li>
+<li><a href='https://www.bhushandeshmukh.me/'>Home</a></li>
 <li itemprop='name'><a href='#' itemprop='url'>Features</a></li>
 <li itemprop='name'><a href='#' itemprop='url'>_Multi DropDown</a></li>
 <li itemprop='name'><a href='#' itemprop='url'>__DropDown 1</a></li>
@@ -4615,11 +4615,11 @@ var pagenav_next = "Next";
 </li>
 <li class='clearfix'>
 <strong class='list-title'>E-mail</strong>
-<span class='cont'><a href='mailto:antosh@dyade.in'>antosh[at]dyade.in</a></span>
+<span class='cont'><a href='mailto:bhushansdeshmukh@coep.sveri.ac.in'>bhushansdeshmukh@coep.sveri.ac.in</a></span>
 </li>
 <li class='clearfix'>
 <strong class='list-title'>Phone</strong>
-<span class='cont'><a href='tel:+919535909535'>+91 9535 90 XXXX</a></span>
+<span class='cont'><a href='tel:+918421296860'>+91 8421296860</a></span>
 </li>
 <!--<li class='clearfix'> <strong class='list-title'>Working</strong> <span class='cont'>From November 1, 2000</span> </li> <li class='clearfix'> <strong class='list-title'><span class='list-button'>On Vacation</span></strong> <span class='cont'><i class='fa fa-calendar'/>till March 25, 2016</span> </li> -->
 </ul>
@@ -4631,12 +4631,12 @@ var pagenav_next = "Next";
 <div class='top-bar-social blue section' id='header social widget' name='Top Social Widget'><div class='widget LinkList' data-version='1' id='LinkList230'>
 <div class='widget-content'>
 <ul id='social'>
-<li><a class='facebook' href='https://www.facebook.com/amdyade' title='facebook'></a></li>
-<li><a class='twitter' href='https://twitter.com/amdyade' title='twitter'></a></li>
+<li><a class='facebook' href='https://www.facebook.com/' title='facebook'></a></li>
+<li><a class='twitter' href='https://twitter.com/' title='twitter'></a></li>
 <li><a class='gplus' href='#' title='gplus'></a></li>
-<li><a class='instagram' href='https://www.instagram.com/amdyade/' title='instagram'></a></li>
-<li><a class='pinterest' href='https://in.pinterest.com/antoshdyade/' title='pinterest'></a></li>
-<li><a class='linkedin' href='https://in.linkedin.com/in/antoshdyade' title='linkedin'></a></li>
+<li><a class='instagram' href='https://www.instagram.com/bhushandeshmukhofficial/' title='instagram'></a></li>
+<li><a class='pinterest' href='https://in.pinterest.com/' title='pinterest'></a></li>
+<li><a class='linkedin' href='https://www.linkedin.com/in/bhushan-deshmukh-b89b3920a/' title='linkedin'></a></li>
 </ul>
 </div>
 </div></div>
@@ -5140,7 +5140,7 @@ padding: 0;
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-<div class="fb-page" data-href="https://www.facebook.com/amdyade/" data-tabs="timeline" data-width="300" data-height="230" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/amdyade/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/amdyade/">Antosh Dyade</a></blockquote></div>
+<div class="fb-page" data-href="https://www.facebook.com/" data-tabs="timeline" data-width="300" data-height="230" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/">Bhushan Deshmukh</a></blockquote></div>
 </center>
 </div>
 </div><div class='widget HTML' data-version='1' id='HTML900'>
@@ -5279,19 +5279,19 @@ padding: 0;
 <div class='bot-bar-menu'>
 <div class='bot-menu-wrap row'>
 <div class='jugas_footer_copyright' style='font-size:1px; opacity:0;'>
-                      Created By <a href='http://www.antosh.in/' id='mycontent' rel='dofollow' title='Antosh Madappa Dyade'>Antosh Dyade</a> | <b><a href='https://www.dyade.in/' style='color:#f76e0a;' target='_blank' title='Antosh Madappa Dyade'>Dyade</a></b>
+                      Created By <a href='http://www.bhushandeshmukh.me/' id='mycontent' rel='dofollow' title='Bhushan Satish Deshmukh'>Bhushan Deshmukh</a> | <b><a href='https://www.proatcode.wordpress.com/' style='color:#f76e0a;' target='_blank' title='Bhushan Satish Deshmukh'>Dyade</a></b>
 </div>
 <div class='bottom-bar-social blue section' id='Footer social widget' name='Footer Social Widget'><div class='widget LinkList' data-version='1' id='LinkList236'>
 <div class='widget-content'>
 <ul id='social'>
-<li><a class='facebook' href='www.facebook.com/amdyade/' title='facebook'></a></li>
-<li><a class='twitter' href='www.twitter.com/amdyade/' title='twitter'></a></li>
+<li><a class='facebook' href='www.facebook.com/' title='facebook'></a></li>
+<li><a class='twitter' href='www.twitter.com/' title='twitter'></a></li>
 <li><a class='gplus' href='#' title='gplus'></a></li>
 <li><a class='bloglovin' href='#' title='bloglovin'></a></li>
-<li><a class='instagram' href='https://www.instagram.com/amdyade/' title='instagram'></a></li>
-<li><a class='email' href='antosh@dyade.in' title='email'></a></li>
-<li><a class='youtube' href='https://www.youtube.com/channel/UCMaIZeDcOKBXA8in483DsPw/featured' title='youtube'></a></li>
-<li><a class='pinterest' href='https://in.pinterest.com/antoshdyade/' title='pinterest'></a></li>
+<li><a class='instagram' href='https://www.instagram.com/bhushandeshmukhofficial/' title='instagram'></a></li>
+<li><a class='email' href='bhushansdeshmukh@coep.sveri.ac.in' title='email'></a></li>
+<li><a class='youtube' href='https://www.youtube.com/channel/bhushandeshmukh/featured' title='youtube'></a></li>
+<li><a class='pinterest' href='https://in.pinterest.com/' title='pinterest'></a></li>
 </ul>
 </div>
 </div></div>
